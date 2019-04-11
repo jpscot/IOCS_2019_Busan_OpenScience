@@ -1,4 +1,4 @@
 ## _Leveraging Python & Jupyter Notebook to validate satellite Ocean Color retrievals_
-#### My presentation at the Open Source Scientific Computing Tools & Resources Breakout Workshop, IOCS 2019 in Busan, South Korea.
-<img src='./figs/logo-header-2019.png'>
+#### A presentation given at the Open Source Scientific Computing Tools & Resources Breakout Workshop as part of the IOCS 2019 meeting in Busan, South Korea.
+<img src='./figs/IOCS_header-2019.png'>
   
