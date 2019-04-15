@@ -40,5 +40,3 @@ dependencies:
   - wheel=0.33.1=py36_0
   - xz=5.2.4=h1de35cc_1001
   - zlib=1.2.11=h1de35cc_1004
-prefix: /Users/jpscott6/anaconda3/envs/IOCS_2019_Busan_OpenScience
-
