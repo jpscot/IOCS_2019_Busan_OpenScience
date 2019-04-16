@@ -1,4 +1,11 @@
 *~
+~$*
+.~*
+.ipynb_checkpoints
+.DS_Store
+*.pyc
+__pycache__
+*.nc
 bin
 include
 lib
@@ -9,13 +16,8 @@ var
 version.h
 nbproject
 testdata
-*.pyc
 .*project
 .ctags
 .settings
 .idea
 *.swp
-.DS_Store
-__pycache__
-.ipynb_checkpoints
-*.nc
