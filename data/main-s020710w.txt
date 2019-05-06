@@ -68,7 +68,7 @@
 !
 ! file generated - 09-Dec-2002 14:21:50
 ! 
-! File ammended by OCSSW match-up maker script: mk_matchup.py on 2019-04-25 13:47:11.
+! File ammended by OCSSW match-up maker script: mk_matchup.py on 2019-05-06 15:29:50.
 ! WARNINGS: This script does NOT adjust in situ data to water-leaving values
 !           This script does NOT account for potential oversampling by the in situ data in time or space.
 !           If successive calls to this script are made for a single in situ file AND multiple-valid-overpasses exist,
